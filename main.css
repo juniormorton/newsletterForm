@@ -1,0 +1,14 @@
+/* Elements */
+body {
+    width: 1440px;
+    margin: 0 auto;
+    background: hsl(235, 18%, 26%);
+}
+
+p {
+    font: normal 16px/1 'Roboto', sans-serif;
+}
+
+/* Classes */
+
+/* IDs */
